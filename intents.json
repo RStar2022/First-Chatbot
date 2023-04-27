@@ -177,7 +177,7 @@
       "Civil engineering"
    ],
    "responses": [
-      "Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+      "Our university offers Information Technology, computer Engineering, Mechanical engineering, Chemical engineering, Civil engineering, etc."
    ],
    "context_set": ""
 },
@@ -209,7 +209,7 @@
       "fees for non-Ac room for boys"
    ],
    "responses": [
-      "For Fee detail visit <a target=\"_blank\" href=\"LINK\"> here</a>"
+      "For Fee detail visit university website"
    ],
    "context_set": ""
 },
@@ -232,7 +232,7 @@
       "location"
    ],
    "responses": [
-      "<a target=\"_blank\" href=\"ADD YOU GOOGLE MAP LINK HERE\"> here</a>"
+      "It is located on Fukui. Please check the google map"
    ],
    "context_set": ""
 },
@@ -263,7 +263,7 @@
       "distance between hostel and college"
    ],
    "responses": [
-      "For hostel detail visit <a target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\"> here</a>"
+      "We don't support hostel"
    ],
    "context_set": ""
 },
@@ -283,7 +283,7 @@
       "what about events"
    ],
    "responses": [
-      "For event detail visit <a target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+      "Please check the university website for another events"
    ],
    "context_set": ""
 },
@@ -305,7 +305,7 @@
       "documents needed"
    ],
    "responses": [
-      "To know more about document required visit <a target=\"_blank\" href=\"ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE\"> here</a>"
+      "To know more about document required visit university website refered to document"
    ],
    "context_set": ""
 },
@@ -321,7 +321,7 @@
       "floors"
    ],
    "responses": [
-      "My College has total 2 floors "
+      "My College has total 14 floors "
    ],
    "context_set": ""
 },
@@ -337,7 +337,7 @@
       "What is next lecture"
    ],
    "responses": [
-      "Timetable provide direct to the students OR To know about syllabus visit <a target=\"_blank\" href=\"TIMETABLE LINK\"> here</a>"
+      "Each department and major has different timetable, please check your email for the timetable"
    ],
    "context_set": ""
 },
@@ -360,7 +360,7 @@
       "how many libraries"
    ],
    "responses": [
-      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+      "There is one huge and spacious library.timings are 8am to 10pm. I am waiting for your visit"
    ],
    "context_set": ""
 },
@@ -369,7 +369,8 @@
    "patterns": [
       "how is college infrastructure",
       "infrastructure",
-      "college infrastructure"
+      "college infrastructure",
+      "infrastructure detail"
    ],
    "responses": [
       "Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
