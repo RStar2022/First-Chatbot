@@ -3,7 +3,7 @@ First build chatbot using python
 <br>
 Kaggle Dataset : [University Chatbot Dataset](https://www.kaggle.com/datasets/niraliivaghani/chatbot-dataset)
 <br>
-## Download : 
+Download : https://github.com/RStar2022/First-Chatbot/blob/main/intents.json
 
 ## Contents :
 1. Learn Natural Language Processing
